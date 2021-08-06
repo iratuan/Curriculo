@@ -1,7 +1,8 @@
+# Currículo
 
 # Francisco Iratuã Nobre Júnior
 
-Engenheiro de softwares \ Desenvolvedor de sistemas 
+Engenheiro de softwares \ Desenvolvedor de sistemas com experiência em stacks Java, Javascript e PHP. Atualmente, atuo como arquiteto de software na Join Tecnologia e Design, desenvolvendo soluções para o Banco do Nordeste do Brasil.
 
 ---
 
@@ -15,6 +16,15 @@ Engenheiro de softwares \ Desenvolvedor de sistemas
 
 ---
 
+## Competências e habilidades
+
+- Trabalho em equipe
+- Design de sistemas
+- Inglês em nível intermediário
+- Criatividade
+
+---
+
 ## Experiência profissional
 
 ### Join Tecnologia e Design - 2019
@@ -22,10 +32,12 @@ Engenheiro de softwares \ Desenvolvedor de sistemas
 Engenheiro de Software/Desenvolvedor Java 
 
 - Desenvolvimento de sistemas para os mais diversos segmentos de clientes do Banco do Nordeste do Brasil.
+- Arquiteto de software (JEE) na construção do Aplicativo BNB Agro, voltado para o segmento de clientes do Agro Negócio.
+- Arquiteto de software (JEE) na construção do Aplicativo BNB MPE, voltado para o segmento de Micro e Pequenas Empresas.
 
 Tecnologias: Java JEE, EJB, JPA, TDD, ATDD, OpenAPI, HealthCheck, IBM DB2, IMB Web Sphere, IBM MQ, Open Liberty, React, React JS, HTML, CSS,  Javascript, Typescript, Jenkins, Scrum.
 
-## Secretaria Municipal da Saúde - 2005 a 2019
+### Secretaria Municipal da Saúde - 2005 a 2019
 
 Engenheiro de Software/Desenvolvedor
 
@@ -54,6 +66,17 @@ Web Designer / Web Master
 
 ---
 
+## Cursos concluídos
+
+- [Lista de cursos concluídos na plataforma Alura](https://www.notion.so/Cursos-conclu-dos-Alura-69e8da1dc8b54a1f952245e7a1f54876)
+- [Lista de cursos concluídos na plataforma Coursera](https://www.notion.so/Cursos-conclu-dos-Coursera-97c2d9a8b0f14dce94728ba05e210707)
+- Lista de cursos concluídos na plataforma Udemy
+- [Lista de cursos concluídos na plataforma Digital Innovation One](https://www.notion.so/Cursos-conclu-dos-Digital-Innovation-One-a6a8e5b90d2c485abd7f4172d09079f6)
+
+- Outros cursos
+
+---
+
 ## Redes sociais
 
 - 🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/iratuan/](https://www.linkedin.com/in/iratuan/)
@@ -68,3 +91,9 @@ Web Designer / Web Master
 Telefone: +55 85 9 8812.8527
 
 Email: iratuan@gmail.com
+
+[Cursos concluídos Alura](https://www.notion.so/Cursos-conclu-dos-Alura-69e8da1dc8b54a1f952245e7a1f54876)
+
+[Cursos concluídos Coursera](https://www.notion.so/Cursos-conclu-dos-Coursera-97c2d9a8b0f14dce94728ba05e210707)
+
+[Cursos concluídos Digital Innovation One](https://www.notion.so/Cursos-conclu-dos-Digital-Innovation-One-a6a8e5b90d2c485abd7f4172d09079f6)
