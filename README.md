@@ -91,9 +91,3 @@ Web Designer / Web Master
 Telefone: +55 85 9 8812.8527
 
 Email: iratuan@gmail.com
-
-[Cursos concluídos Alura](https://www.notion.so/Cursos-conclu-dos-Alura-69e8da1dc8b54a1f952245e7a1f54876)
-
-[Cursos concluídos Coursera](https://www.notion.so/Cursos-conclu-dos-Coursera-97c2d9a8b0f14dce94728ba05e210707)
-
-[Cursos concluídos Digital Innovation One](https://www.notion.so/Cursos-conclu-dos-Digital-Innovation-One-a6a8e5b90d2c485abd7f4172d09079f6)
