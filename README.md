@@ -69,7 +69,7 @@ Web Designer / Web Master
 ## Cursos concluídos
 
 - [Lista de cursos concluídos na plataforma Alura](https://github.com/iratuan/Curriculo/blob/main/CursosAlura.md)
-- [Lista de cursos concluídos na plataforma Coursera](https://www.notion.so/Cursos-conclu-dos-Coursera-97c2d9a8b0f14dce94728ba05e210707)
+- [Lista de cursos concluídos na plataforma Coursera](https://github.com/iratuan/Curriculo/blob/main/CursosCoursera.md)
 - Lista de cursos concluídos na plataforma Udemy
 - [Lista de cursos concluídos na plataforma Digital Innovation One](https://www.notion.so/Cursos-conclu-dos-Digital-Innovation-One-a6a8e5b90d2c485abd7f4172d09079f6)
 
