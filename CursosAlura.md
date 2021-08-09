@@ -1,8 +1,14 @@
 # Cursos concluídos Alura
 
+Certificamos que FRANCISCO IRATUÃ NOBRE JÚNIOR
+                concluiu os cursos a seguir, totalizando a carga horária estimada em
+                **1547 horas**
+                
+               no período de **09/11/2018 a  09/08/2021**.
+
 ## Formações:
 
-### **Formação: Spring Framework**
+### Formação: Spring Framework
 
 - Java Servlet: Fundamentos da programação web Java (de 03/11/2019 a 16/11/2019) 10hrs
 - Java Servlet: Autenticação, autorização e o padrão MVC (de 05/11/2019 a 26/11/2019) 14hrs
@@ -17,7 +23,7 @@
 - Spring Boot API Rest: Segurança da API, Cache e Monitoramento (de 14/06/2019 a 03/12/2020) 12hrs
 - Spring Boot e Teste: Profiles, Testes e Deploy (de 06/12/2020 a 07/12/2020) 8hrs
 
-### **Formação: Expert em Orientação a Objetos**
+### Formação: Expert em Orientação a Objetos
 
 - Design Patterns Java I: Boas práticas de programação (de 11/04/2020 a 15/04/2020) 20hrs
 - Design Patterns Java II: Boas praticas de programação (de 15/04/2020 a 15/04/2020) 16hrs
@@ -25,7 +31,7 @@
 - Java e Testes: Test Driven Development com Junit (de 26/11/2019 a 08/12/2019) 12hrs
 - Teste de Integração: Testes SQL e DAOs automatizados em Java (de 05/05/2020 a 05/05/2020) 12hrs
 
-### **Formação: Integração de Aplicações Java**
+### Formação: Integração de Aplicações Java
 
 - JAX-RS e Jersey : Domine a criação de webservices REST (de 11/02/2020 a 24/02/2020) 12hrs
 - JAX-WS : Domine a criação de webservices SOAP (de 11/02/2020 a 22/02/2020) 16hrs
@@ -63,6 +69,8 @@
 - Agile na Prática: Técnicas aplicadas para gestão ágil (de 15/10/2019 a 06/11/2019) 8hrs
 - Agile Avançado: Crie modelos e descubra o Nexus (de 15/10/2019 a 14/11/2019) 10hrs
 
+## Cursos:
+
 ## Mobile
 
 - React Native parte 1: Criando apps nativas com JavaScript e React (de 11/04/2019 a 28/01/2020) 5hrs
@@ -99,6 +107,7 @@
 - EJB com Java EE 8: API Rest com WildFly 15 (de 22/02/2020 a 03/03/2020) 12hrs
 - PHP: Avançando com Orientação a objetos parte 2 (de 12/06/2019 a 27/07/2019) 10hrs
 - Matemática: Continuidade de funções e seus limites (de 08/06/2020 a 09/06/2020) 8hrs
+- Rest com NodeJS: API com Express e MySQL (de 05/08/2021 a 09/08/2021) 8hrs
 - Matemática: sistemas de equações algébricas lineares (de 05/04/2020 a 11/04/2020) 10hrs
 - Windows Forms com C#: Formulários, componentes e eventos (de 09/12/2020 a 11/12/2020) 14hrs
 - Windows Forms com C#: Menus, outros formulários e validação com login e senha (de 10/12/2020 a 12/12/2020) 14hrs
